@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/choseongje/MadCampWeek3.git/static/css/main.71fdc64a.css",
+    "main.js": "/choseongje/MadCampWeek3.git/static/js/main.59602165.js",
+    "static/media/background.jpg": "/choseongje/MadCampWeek3.git/static/media/background.48b87dbc50af0198db7a.jpg",
+    "static/media/pokeball.svg": "/choseongje/MadCampWeek3.git/static/media/pokeball.8e8e9d3acbbac1c4208b.svg",
+    "index.html": "/choseongje/MadCampWeek3.git/index.html",
+    "main.71fdc64a.css.map": "/choseongje/MadCampWeek3.git/static/css/main.71fdc64a.css.map",
+    "main.59602165.js.map": "/choseongje/MadCampWeek3.git/static/js/main.59602165.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71fdc64a.css",
+    "static/js/main.59602165.js"
+  ]
+}
